@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+    background-color: lightslategray;
+    padding: 5px;
+
+}
+body {
+    margin: 0;
+    background-color: lightgray;
+} 
+.imgMain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;    
+}
+div ol {
+    text-align: center;
+    
+    
+   
+}
+div ul {
+    text-align: center;
+    font-size: larger;
+    font-weight: 200;
+
+
+}
+div h1 {
+    text-align: center;
+    text-decoration: underline;
+    background-color: lightslategray;
+    
+}
+div textarea {
+    text-align: center;
+}
+div video {
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black; 
+
+}
